@@ -1,4 +1,4 @@
-# csci3155_spr19_public
+# Readings and In-Class Lecture Notes for CSCI 3155 
 ## Sriram Sankaranarayanan (Computer Science, CU Boulder)
 This repository contains the jupyter scala notebooks for CSCI 3155.
 We will distribute the notebooks for each week as jupyter scala notebooks.
