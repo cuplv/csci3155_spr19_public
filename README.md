@@ -1,4 +1,4 @@
-# Readings and In-Class Lecture Notes for CSCI 3155 
+# Readings and In-Class Lecture Notes for CSCI 3155
 ## Sriram Sankaranarayanan (Computer Science, CU Boulder)
 This repository contains the jupyter scala notebooks for CSCI 3155.
 We will distribute the notebooks for each week as jupyter scala notebooks.
@@ -38,3 +38,7 @@ scala: https://github.com/almond-sh/almond.
 It works well with Java 1.8 and anecdotally can work with Java 1.9.
 
 Post on the Piazza page for help.
+
+__Note:__ Although github has a viewer for these notebooks, it often cannot render
+some of the characters very well.  Thus, the output looks distorted with "Unknown Character"
+all over the place. Cloning and viewing on your own jupyter notebook viewer is the best way. 
